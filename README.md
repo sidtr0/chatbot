@@ -1,6 +1,6 @@
-Welcome to the readme. You are reading this
+A5ANCE
 
-While these may be facts, they were explained by a neural network, my brain.
+Your personal friend, advisor or googler
 
 THis is a chatbot thats cli for now but hopefully is gonna be a discord bot soon
 
