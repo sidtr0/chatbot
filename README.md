@@ -1,6 +1,8 @@
 A5ANCE
 
-Its a discord bot. Itll chat with you if you say anything. 
+Your personal friend, advisor or googler
+
+THis is a chatbot thats cli for now but hopefully is gonna be a discord bot soon
 
 To contribute please read the CONTIBUTING.md to get started
 
