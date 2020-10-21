@@ -15,4 +15,4 @@ Steps to running on discord:
 
   run ``train.sh`` to train your model
 
-  run the main.py file to run the bot
+  run the bot.py file to run the bot
