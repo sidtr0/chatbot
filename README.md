@@ -1,7 +1,16 @@
-Welcome to the readme. You are reading this
+A5ANCE
 
-While these may be facts, they were explained by a neural network, my brain.
-
-THis is a chatbot thats cli for now but hopefully is gonna be a discord bot soon
+Its a discord bot. Itll chat with you if you say anything. 
 
 To contribute please read the CONTIBUTING.md to get started
+
+
+
+
+
+
+Steps to running on discord:
+
+  run ``train.sh`` to train your model
+
+  run the main.py file to run the bot

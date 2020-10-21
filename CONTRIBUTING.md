@@ -4,6 +4,5 @@ For contributing to intents.json
 
   You must follow the format for every new response added
   
-  run the delete.sh to delete the training model for new training
 
-  Run the training model again to incorporate all the new responses added. The steps should be 3000
+  Run the training model again to incorporate all the new responses added. The steps should be 1000
